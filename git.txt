@@ -1,0 +1,5 @@
+git init -> cria uma pastinha .git
+
+code . -> abre o vs
+
+git add . -> adiciona todos os arquivos na pasta git
