@@ -3,3 +3,5 @@ git init -> cria uma pastinha .git
 code . -> abre o vs
 
 git add . -> adiciona todos os arquivos na pasta git
+
+git commit -m "criando teste.txt" -> descrever bem detalhado
