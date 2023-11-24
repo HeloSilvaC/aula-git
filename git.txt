@@ -1,5 +1,4 @@
-
-git init ->ria uma pastinha .git
+git init -> cria uma pastinha .git
 
 code . -> abre o vs
 
@@ -14,8 +13,3 @@ git checkout 1754b987104d069a0c508bcc256e8bf8eba3b57f -> volta para o commit ant
 git remote add origin git@github.com:HeloSilvaC/aula-git.git -> adicionar o repositório remoto
 
 git push origin master -> subir no repositório local no origin que foi criado
-
-git pull origin master -> puxar o repositório remoto para o local
-
-git log -> mostra todos os commits
-
