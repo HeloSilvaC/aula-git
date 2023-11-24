@@ -23,3 +23,5 @@ branchs -> ramos/ramificações
 git branch -> mostra as branches
 
 git branch teste1 -> cria a branch
+
+git merge teste1 -> pega o que fiz no teste um e manda para o master pq já fui para ele através do git checkout master
