@@ -5,3 +5,11 @@ code . -> abre o vs
 git add . -> adiciona todos os arquivos na pasta git
 
 git commit -m "criando teste.txt" -> descrever bem detalhado
+
+cls -> limpa
+
+git checkout 1754b987104d069a0c508bcc256e8bf8eba3b57f -> volta para o commit anterior
+
+git remote add origin git@github.com:HeloSilvaC/aula-git.git -> adicionar o repositório remoto
+
+git push origin master -> subir no repositório local no origin que foi criado
